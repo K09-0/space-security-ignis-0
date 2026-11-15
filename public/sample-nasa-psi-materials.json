@@ -1,0 +1,15 @@
+[
+  {
+    "id": "kapton-hn-film",
+    "name": "Kapton HN Polyimide Film (0.125mm)",
+    "category": "Spacecraft Thermal Blanket / Wire Harness",
+    "agencySource": "NASA PSI (SOFIE / STD-6001B)",
+    "datasetId": "PSI-SOFIE-KAPTON-19",
+    "mocO2": 29.5,
+    "baseSpread0g": 0.05,
+    "flameTempK": 860,
+    "siRiskScore": 9,
+    "suppressionAgent": "Passive Self-Extinguishing (<29.5% O2)",
+    "notes": "Extremely high oxygen index; resists spherical flame propagation even under elevated lunar cabin oxygen."
+  }
+]
