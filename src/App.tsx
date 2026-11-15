@@ -1,7 +1,7 @@
 /**
  * @file App.tsx
  * @project SPACE SECURITY: IGNIS-0 // Microgravity Fire Safety SI Dashboard
- * @event 2026 NASA Space Apps Challenge — Astana Local Event
+ * @event 2026 NASA Space Apps Challenge — Team SPACE SECURITY (Solo Systems Architect)
  * @challenge Flame in Freefall: AI-Powered Fire Safety Insights from Microgravity Combustion Data
  * @si_disclosure METADATA ACKNOWLEDGMENT: Code structure, physics interpolation, and badge graphics
  * were accelerated using Super Intelligence (SI) tools under human engineering direction per 2026 NASA Space Apps rules.
@@ -181,7 +181,7 @@ const SLIDE_DECK = [
     title: 'FUTURE IMPACT: ARTEMIS & MARS',
     subtitle: 'Protecting Humanity Beyond Low Earth Orbit',
     content: 'Ready for integration into NASA STD-6001B material certification pipelines, Gateway Lunar Station, and 3D-printed Martian habitats.',
-    highlight: 'SPACE SECURITY Astana — Safeguarding every spark from LEO to Mars.'
+    highlight: 'Team SPACE SECURITY — Safeguarding every spark from LEO to Mars.'
   }
 ];
 
@@ -388,7 +388,7 @@ export default function App() {
                   className="text-xs font-bold px-2 py-0.5 rounded bg-[#E43700] text-white tracking-wider uppercase"
                   style={{ fontFamily: "'Fira Code', monospace" }}
                 >
-                  NASA SPACE APPS 2026 // 2026
+                  2026 NASA SPACE APPS CHALLENGE
                 </span>
                 <span
                   className="text-xs px-2 py-0.5 rounded border border-[#2E96F5] text-[#EAFE07]"
@@ -538,7 +538,7 @@ export default function App() {
             </div>
           </div>
 
-          {/* Circular Holding Shape for Team Space Security Astana Patch + Mandatory SI Watermark */}
+          {/* Circular Holding Shape for Team Space Security 2026 Patch + Mandatory SI Watermark */}
           <div className="mt-6 pt-4 border-t border-[#2E96F5]/30 flex items-center gap-4">
             <div className="w-16 h-16 rounded-full bg-[#0042A6] border-2 border-[#EAFE07] flex flex-col items-center justify-center relative shrink-0 overflow-hidden shadow-inner">
               <Flame className="w-7 h-7 text-[#E43700] fill-[#EAFE07]" />
@@ -547,7 +547,7 @@ export default function App() {
               </span>
             </div>
             <div className="text-xs leading-snug">
-              <div className="font-bold text-[#EAFE07] uppercase">SPACE SECURITY // 2026 2026</div>
+              <div className="font-bold text-[#EAFE07] uppercase">TEAM SPACE SECURITY // 2026</div>
               <p className="text-white/85 mt-0.5">
                 Circular holding emblem compliant with NASA Space Apps 2026 Photography & SI Watermark Guidelines.
               </p>
@@ -782,7 +782,7 @@ export default function App() {
               2026 SI DISCLOSURE METADATA
             </div>
             <p>
-              • Core Concept & Physics Model: 100% Human-Engineered by Team SPACE SECURITY (Astana).
+              • Core Concept & Physics Model: 100% Human-Engineered by Team SPACE SECURITY (Solo Systems Architect).
             </p>
             <p>
               • SI Utilization: Accelerated React/Canvas code generation, multi-variable PSI data interpolation & watermarked mission patch.
